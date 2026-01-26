@@ -48,7 +48,7 @@
   "extensionDependencies": [],
   "dependencies": {
     "deep-equal": "^2.0.2",
-    "diff": "^4.0.2",
+    "diff": "^4.0.4",
     "glob": "^7.1.6",
     "json-rpc2": "^2.0.0",
     "moment": "^2.24.0",
